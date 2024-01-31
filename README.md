@@ -1,4 +1,4 @@
-# Flask Book API
+# Flask-Book-API
 
 Flask-Book-API is a straightforward Flask application designed for managing a collection of books through a RESTful API. This project supports basic CRUD (Create, Read, Update, Delete) operations, enabling users to interact with book records stored in a MySQL database. The API also includes basic authentication using Flask-BasicAuth for added security.
 
